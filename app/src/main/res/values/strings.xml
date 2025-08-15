@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">doggoes</string>
+    <string name="custom_rules">custom rules</string>
+    <string name="account">account</string>
+    <string name="home">home</string>
+    <string name="leaderboard">leaderboard</string>
+    <string name="rules">rules</string>
+    <string name="doggoes">Doggoes!</string>
 </resources>

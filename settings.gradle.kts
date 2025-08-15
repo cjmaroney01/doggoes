@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
 rootProject.name = "doggoes"
 include(":app")
+include(":features:auth")
+include(":core")

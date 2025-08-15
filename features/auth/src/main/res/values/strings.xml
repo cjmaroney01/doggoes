@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="doggoes">Doggoes!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="username">Username</string>
+    <string name="user_not_found">User not found</string>
+    <string name="there_was_an_error">There was an error</string>
+    <string name="passwords_do_not_match">Passwords do not match!</string>
+    <string name="you_must_supply_a_new_password">You must supply a new password!</string>
+    <string name="passwords_are_limited_to_25_characters">Passwords are limited to 25 characters!</string>
+    <string name="error_while_resetting_password">Error while resetting password</string>
+    <string name="incorrect_guess">Incorrect guess!</string>
+    <string name="three_wrong_guesses_locked_out">You have made 3 wrong guesses.  You are locked out from resetting your password for 1 hour.</string>
+    <string name="hide_password">hide password</string>
+    <string name="show_password">show password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="invalid_username_or_password">Invalid username or password</string>
+    <string name="close">close</string>
+    <string name="how_to_play">How to Play</string>
+    <string name="login">Login</string>
+    <string name="register">Register!</string>
+    <string name="new_user">New User?</string>
+    <string name="dog">dog</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="your_password_has_been_reset_login_to_continue">Your password has been reset.  Login to continue.</string>
+    <string name="submit">Submit</string>
+    <string name="repeat_password">Repeat\nPassword</string>
+    <string name="your_answer">Your answer?</string>
+    <string name="your_hint_question">Your hint question:</string>
+    <string name="new_password">New\nPassword</string>
+</resources>
